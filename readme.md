@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @aish717
-- 👀 I’m interested in developing a new software and design that's ofc useful!!
-- 🌱 I’m currently learning new things in computer science 
-- 📫 How to reach me @aish71
+
